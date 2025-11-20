@@ -89,7 +89,7 @@ const experience: Company[] = [
     company: "Publicis Sapient",
     role: "Senior Associate Experience Technology",
     domain: "E‑commerce, Hospitality & Aviation",
-    period: "2018 – 2022",
+    period: "2015 – 2022",
     projects: [
       {
         name: "Bed Bath & Beyond",
@@ -137,7 +137,7 @@ const experience: Company[] = [
     company: "HCL Technologies",
     role: "Lead Engineer",
     domain: "Telecom",
-    period: "2016 – 2018",
+    period: "2014 – 2015",
     projects: [
       {
         name: "AT&T UFRD (Upper Funnel Redesign)",
@@ -155,7 +155,7 @@ const experience: Company[] = [
     company: "Saigun Technologies",
     role: "Snr Web Designer",
     domain: "SaaS – HRMS",
-    period: "2013 – 2016",
+    period: "2010 – 2014",
     projects: [
       {
         name: "Empxtrack HRMS & Corporate Site",
