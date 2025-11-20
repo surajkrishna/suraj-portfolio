@@ -303,7 +303,7 @@ export default function PortfolioPage(): JSX.Element {
             <div>
               <p className="text-sm font-semibold text-slate-50">Suraj Krishna</p>
               <p className="text-xs text-slate-400">
-                Technical Lead · Senior Front-End Engineer
+                Technical Lead
               </p>
             </div>
           </div>
